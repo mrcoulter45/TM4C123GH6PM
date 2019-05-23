@@ -1,0 +1,13 @@
+*.crf
+*.d
+*.i
+*.o
+*.lst
+*.axf
+*.htm
+*.lnp
+*.map
+*.Michael
+*.bak
+*.uvopt
+*.dep
